@@ -1,0 +1,16 @@
+# Config files with sensitive data
+config/database.php
+config/mailer.php
+
+# SQL Dumps
+*.sql
+
+# Uploads and temporary files
+uploads/
+/tmp/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
